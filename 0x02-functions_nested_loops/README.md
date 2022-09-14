@@ -1,1 +1,1 @@
-a program that prints
+a function that prints the alphabet
