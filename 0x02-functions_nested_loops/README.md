@@ -1,1 +1,1 @@
-a function that prints 10 times the alphabet
+a function that checks for lowercase character
